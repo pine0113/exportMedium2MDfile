@@ -26,7 +26,7 @@ node js v10.1.0
    登入後點選 ```my account``` > ```API Key``` 就可以看到
 
 3. 修改參數
-   將  ```api_key``` 以及 ```mediumUserID``` 改為你的資訊
+   將 ```api_key``` 以及 ```mediumUserID``` 改為你的資訊
 
 >run.js
 ```
